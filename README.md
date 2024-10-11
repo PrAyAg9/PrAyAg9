@@ -1,4 +1,14 @@
-## Hi there 👋
+# Hi there! I'm [Prayag] 👋
+<!-- <p>
+
+<img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png">
+</p>
+-->
+
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?PrAyAg9=PrAyAg9&show_icons=true)
+
+![Visitor Count](https://hitcount.io/counter.php?uid=your_uid&type=page)
 
 <!--
 **PrAyAg9/PrAyAg9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
