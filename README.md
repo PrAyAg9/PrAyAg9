@@ -11,10 +11,10 @@
 
 <div class="stats" align="center">
 <div align="center">
-<div align="left" >
-  <img height=195 align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PrAyAg9&show_icons=true&count_private=true&theme=radical" />
+<div align="center" >
+  <img height=195 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PrAyAg9&show_icons=true&count_private=true&theme=radical" />
 </div>
-<div align="right"><img src="https://streak-stats.demolab.com?user=PrAyAg9&theme=radical" alt="GitHub Streak" /></div>
+<div align="center"><img src="https://streak-stats.demolab.com?user=PrAyAg9&theme=radical" alt="GitHub Streak" /></div>
 </div>
 <br><br>
 <p align="center">
