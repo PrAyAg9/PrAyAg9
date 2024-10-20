@@ -8,15 +8,14 @@
 - 🌱 I’m currently learning **AI-ML, Deep Learning and LLMs**
 
 <h2 align="center" style="font-family: 'Poppins', sans-serif;"><img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics</h2>
-
+<br>
 <div class="stats" align="center">
-<div align="center">
 <div align="center" >
   <img height=195 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PrAyAg9&show_icons=true&count_private=true&theme=radical" />
 </div>
+<br>
 <div align="center"><img src="https://streak-stats.demolab.com?user=PrAyAg9&theme=radical" alt="GitHub Streak" /></div>
-</div>
-<br><br>
+<br>
 <p align="center">
   <img align='center' src="https://github-contributor-stats.vercel.app/api?username=PrAyAg9&layout=compact&limit=5&theme=radical&hide_border=true&combine_all_yearly_contributions=true" alt="PrAyAg9" />
 </p>
@@ -25,10 +24,9 @@
   <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrAyAg9&show_icons=true&theme=radical&card_width=500" />
 </div> -->
 
-<br><br>
+<br>
 
 ## :zap: Open Source Programs & Achievements
-
 <div align="center">
   <table>
     <tr align="center">
@@ -99,14 +97,14 @@ You can input snake contribution here if you want post a Issue to me -- PrAyAg9
 
 <a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=30&pause=1000&center=true&vCenter=true&multiline=true&width=530&lines=Bring+your+sense+of+humor+-+it's+mandatory!" alt="Typing SVG" /></a>
 
-<hr>
+<br>
 <h2 align="center">Connect with Me</h2>
+<br>
 <p align="center">
 <a href="http://www.linkedin.com/in/prayag-thakur" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  
 <a href="mailto:pat.982003@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;       
 <a href="https://www.github.com/PrAyAg9" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>   
 </p>
-
 <br>
 <div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
@@ -133,9 +131,10 @@ You can input snake contribution here if you want post a Issue to me -- PrAyAg9
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
 </div>
-
+<br>
 <p align="center"><em><b>I love connecting with different people</b> so if you want to say <b>Hi, I'll be happy to meet you more!</b></em> <img src="https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif" width="40"></p>
-
+<br>
+<div>
 <a href="https://www.linkedin.com/in/prayag-thakur/" target="_blank" style="margin-right: 10px;">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg " alt="LinkedIn Profile" height="40" width="40" />
 </a>
@@ -147,7 +146,7 @@ You can input snake contribution here if you want post a Issue to me -- PrAyAg9
 <a href="https://www.cloudskillsboost.google/public_profiles/0e4d6668-905e-444b-a91c-c4932b249a55" target="_blank" style="margin-right: 10px;"> 
   <img align="center" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Prayag Skill Boost Google Profile" height="40" width="40" />  
 </a>
-<br>
+</div>
 <br>
 <a href="https://holopin.me/prayag9">   <img src="https://holopin.me/prayag9" alt="@@PrAyAg9 Holopin board" /> </a>
 
