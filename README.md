@@ -141,6 +141,26 @@ Snake wala input KARUNGA BADME
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
 </div>
 
+
+<!-- Added Later -->
+<!-- Connect with Me Section -->
+<h2 align="center">Connect with Me</h2>
+
+<a href="https://www.linkedin.com/in/prayag-thakur/" target="_blank" style="margin-right: 10px;">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="40" width="40" />
+</a>
+
+<a href="https://github.com/PrAyAg9" target="_blank" style="margin-right: 10px;">
+  <img align="center" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Profile" height="40" width="40" />
+</a>
+
+<a href="https://www.cloudskillsboost.google/public_profiles/0e4d6668-905e-444b-a91c-c4932b249a55" target="_blank" style="margin-right: 10px;"> 
+  <img align="center" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Prayag Skill Boost Google Profile" height="40" width="40" />  
+</a>
+<br>
+<br>
+<a href="https://holopin.me/prayag9">   <img src="https://holopin.me/prayag9" alt="@@PrAyAg9 Holopin board" /> </a>
+
 <!-- Google Fonts -->
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
 
@@ -158,4 +178,21 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<a href="https://www.tinkercad.com/users/lgvCZ7BWwIF" target="_blank" style="margin-right: 10px;">
+  <img align="center" src="https://www.tinkercad.com/favicon.ico" alt="Tinkercad" height="40" width="40" />
+</a>
+
+<a href="https://wokwi.com/makers/anonzya" target="_blank" style="margin-right: 10px;">
+  <img align="center" src="Wokwi.jpeg" alt="Wokwi Profile" height="40" width="40" />
+</a>
+
+<a href="https://g.dev/ananyag309" target="_blank" style="margin-right: 10px;"> 
+  <img align="center" src="https://www.google.com/favicon.ico" alt="Ananya Google Developer Profile" height="40" width="40" />  
+</a>
+
+<a href="https://www.hackerrank.com/profile/prayagthakur007" target="_blank" style="margin-right: 10px;">
+  <img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="HackerRank Profile" height="50" width="50" />
+</a>
+
 -->
