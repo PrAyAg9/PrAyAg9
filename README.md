@@ -6,86 +6,26 @@
 
 - 🔭 I’m currently working on **Open Source Projects**
 - 🌱 I’m currently learning **AI-ML, Deep Learning and LLMs**
-<!-- <p>
-  # Hi there! I'm [Prayag] 👋
-<img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png">
-</p>
--->
-<!-- <p>
-<img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png">
-</p>
-<!--
-FOR INSERTING BANNER ADD KAR 
-<h2 align="center">
-  <img align="right" alt="coding" src="banner me dalunga badme">
-</h2>
--->
-
-<!--
-<br><br>
-<h2 align="center" style="font-family: 'Poppins', sans-serif;">Hello world <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30"> I'm Prayag😄</h2>
-<h4 align="center" style="font-family: 'Poppins', sans-serif;">A Pre-Final Year Student pursuing BTech in Computer Science and Engineering at Vellore Institue of Technology Bhopal</h4>
-<br><br>
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Calibri&weight=1000&size=40&lines=Web+Developer;ML+Noob;Cricket+Addict;Anime+Lover;&center=true&width=500&height=60"></a>
-</p>
-
-<img align="right" alt="coding" height="312" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-- 🔭 I’m currently working on **Open Source Projects**
-- 🌱 I’m currently learning **Deep Learning and LLMs**
-- 👯 I’m looking to collaborate on **AI & ML Projects**
-- 🤝 I’m looking for help with **Competitive Programming**
-- 👨‍💻 All of my projects are available at [My Projects](https://github.com/PrAyAg9)
-- 📝 Check out my portfolio at [Portfolio](https://your-portfolio-link.com) <!-- Update with your actual portfolio link 
-- 💬 Ask me about **React js, Node js, MySQL, MongoDB**
-- 📫 Mail me **your-email@example.com** <!-- Update with your email 
-
-<br>
-
-<h2 align="center" style="font-family: 'Poppins', sans-serif;">⚙️ Languages and Tools</h2>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,bootstrap,php,react,nodejs,expressjs,mysql,mongodb,tailwind,nextjs,git,figma,latex,vite,visualstudio,wordpress&theme=dark" />
-  </a>
-</p>
-
-<br>
-
-<h2 align="center" style="font-family: 'Poppins', sans-serif;">🏆 Github Trophies</h2>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PrAyAg9&theme=radical" alt="PrAyAg9" /></a> </p>
-
-<br>
--->
-<!-- Statistics -->
 
 <h2 align="center" style="font-family: 'Poppins', sans-serif;"><img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics</h2>
 
 <div class="stats" align="center">
-
-<div align="center" >
-  <img height=200 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PrAyAg9&show_icons=true&count_private=true&theme=radical" />
-</div>
-
-<br>
-<!--
-<br><br>
-Languages used section
 <div align="center">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrAyAg9&show_icons=true&theme=radical&card_width=500" />
+<div align="left" >
+  <img height=195 align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PrAyAg9&show_icons=true&count_private=true&theme=radical" />
+</div>
+<div align="right"><img src="https://streak-stats.demolab.com?user=PrAyAg9&theme=radical" alt="GitHub Streak" /></div>
 </div>
 <br><br>
--->
-<div align="center"><img src="https://streak-stats.demolab.com?user=PrAyAg9&theme=radical" alt="GitHub Streak" /></div>
-
-<br>
-
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=PrAyAg9&layout=compact&limit=5&theme=radical&hide_border=true&combine_all_yearly_contributions=true" alt="PrAyAg9" />
+  <img align='center' src="https://github-contributor-stats.vercel.app/api?username=PrAyAg9&layout=compact&limit=5&theme=radical&hide_border=true&combine_all_yearly_contributions=true" alt="PrAyAg9" />
 </p>
+<!-- <div align="right">
+   <p>Languages used section</p> -- Add if you want
+  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrAyAg9&show_icons=true&theme=radical&card_width=500" />
+</div> -->
 
+<br><br>
 
 ## :zap: Open Source Programs & Achievements
 
@@ -147,21 +87,11 @@ Languages used section
 
 <br>
 
-
-
-<!--
-<br><br>
-[![An image of @PrAyAg9's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/PrAyAg9)](https://holopin.io/@PrAyAg9)
-<br><br>
--->
 <p align="center"><b>Profile Views</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7BPrAyAg9%7D/count.svg" alt="visitor badge"/></p>
 <br>
 <!--
-Snake wala input KARUNGA BADME
-<p align="center">
-  <img src="https://github.com/PrAyAg9/PrAyAg9/blob/output/github-snake.svg" alt="snake">
-</p>
+You can input snake contribution here if you want post a Issue to me -- PrAyAg9
 -->
 <p align="center"><b>Have some fun!</b></p>
 <p align="center">
@@ -204,11 +134,6 @@ Snake wala input KARUNGA BADME
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
 </div>
 
-
-<!-- Added Later -->
-<!-- Connect with Me Section -->
-
-
 <p align="center"><em><b>I love connecting with different people</b> so if you want to say <b>Hi, I'll be happy to meet you more!</b></em> <img src="https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif" width="40"></p>
 
 <a href="https://www.linkedin.com/in/prayag-thakur/" target="_blank" style="margin-right: 10px;">
@@ -231,6 +156,23 @@ Snake wala input KARUNGA BADME
 
 
 <!--
+My Tech Stack More to Come Still Updating ...
+# Tech Stack <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40">
+
+| <samp>Tools & Technologies</samp>  | <samp>Badge</samp>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <samp>Programming Languages</samp> | ![C++](https://img.shields.io/badge/c++-%2314354C.svg?style=for-the-badge&logo=cpp&logoColor=white) ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) |
+| <samp>Frameworks</samp>            | ![React](https://img.shields.io/badge/react-%23282C34.svg?style=for-the-badge&logo=react&logoColor=61DAFB) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2302569B.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)                                                                                                                                                                                                                                                                                                                                                |
+| <samp>IDE & Environment</samp>     | ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![ESLint](https://img.shields.io/badge/eslint-%234B32C3.svg?style=for-the-badge&logo=eslint&logoColor=white) ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)                                                                                              |
+| <samp>Version Control</samp>       | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                      |
+| <samp>Databases</samp>             | ![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%234A90E2.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)                                                                                                                          |
+| <samp>Cloud Platforms</samp>       | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)                                                                                                                          |
+| <samp>Operating System</samp>      | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)                                                      |
+
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> 
+
+
 **PrAyAg9/PrAyAg9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
