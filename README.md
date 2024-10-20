@@ -86,6 +86,69 @@ Languages used section
   <img src="https://github-contributor-stats.vercel.app/api?username=PrAyAg9&layout=compact&limit=5&theme=radical&hide_border=true&combine_all_yearly_contributions=true" alt="PrAyAg9" />
 </p>
 
+
+## :zap: Open Source Programs & Achievements
+
+<div align="center">
+  <table>
+    <tr align="center">
+      <td style="border-right: 1px solid #dddddd; padding: 15px;" valign="top" width="50%">
+        <a href="">
+          <img src="https://github.com/PrAyAg9/PrAyAg9/blob/main/gssoc.png" alt="GirlScript Summer of Code" width="120" />
+          <br>
+          <strong>GirlScript Summer of Code Extd 2024</strong>
+        </a>
+        <br>
+        <span style="font-size: 14px; color: #555555;">🏅 Ranked 31th [Current] </span>
+        <br>
+        <span style="font-size: 12px; color: #777777;">
+	  Out of 17,000+ participants<br>
+          PRs Merged: 40<br>
+          Total Badges: 5<br>
+          Total Score: 635<br>
+        </span>
+      </td>
+      <td style="padding: 15px;" valign="top" width="50%">
+        <table>
+          <tr align="center">
+            <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
+              <img src="https://github.com/PrAyAg9/PrAyAg9/blob/main/Explorer%20Badge.png" alt="Explorer Badge" width="80" />
+              <br>
+              <strong>Explorer Badge</strong>
+            </td>
+            <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
+              <img src="https://github.com/PrAyAg9/PrAyAg9/blob/main/Adventurer%20Badge.png" alt="Adventurer Badge" width="80" />
+              <br>
+              <strong>Adventurer Badge</strong>
+            </td>
+            <td style="padding: 10px;" width="100">
+              <img src="https://github.com/PrAyAg9/PrAyAg9/blob/main/Trailblazer%20Badge.png" alt="Trailblazer Badge" width="80" />
+              <br>
+              <strong>Trailblazer Badge</strong>
+            </td>
+          </tr>
+          <tr align="center">
+              <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
+              <img src="https://github.com/PrAyAg9/PrAyAg9/blob/main/Champion%20Badge.png" alt="Champion Badge" width="80" />
+              <br>
+              <strong>Champion Badge</strong>
+            </td>
+            <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
+              <img src="https://github.com/PrAyAg9/PrAyAg9/blob/main/Summit%20Seeker%20Badge.png" alt="Summit Seeker Badge" width="80" />
+              <br>
+              <strong>Summit Seeker Badge</strong>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+
+
 <!--
 <br><br>
 [![An image of @PrAyAg9's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/PrAyAg9)](https://holopin.io/@PrAyAg9)
@@ -196,5 +259,13 @@ Here are some ideas to get you started:
 <a href="https://www.hackerrank.com/profile/prayagthakur007" target="_blank" style="margin-right: 10px;">
   <img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="HackerRank Profile" height="50" width="50" />
 </a>
+
+<td style="padding: 10px;" width="100">
+              <img src="Postman%20-%20Postman%20API%20Fundamentals%20Student%20Expert%20-%202024-07-29%20(1).png" alt="Postman API Fundamentals Student Expert" width="80" />
+              <br>
+              <strong>API Student Expert</strong>
+              <br>
+              <span style="font-size: 12px; color: #777777;">Postman</span>
+            </td>
 
 -->
