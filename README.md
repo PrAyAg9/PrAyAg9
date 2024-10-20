@@ -106,8 +106,8 @@ Snake wala input KARUNGA BADME
 
 <a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=30&pause=1000&center=true&vCenter=true&multiline=true&width=530&lines=Bring+your+sense+of+humor+-+it's+mandatory!" alt="Typing SVG" /></a>
 
-<p align="center"><em><b>I love connecting with different people</b> so if you want to say <b>Hi, I'll be happy to meet you more!</b></em> <img src="https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif" width="40"></p>
-
+<hr>
+<h2 align="center">Connect with Me</h2>
 <p align="center">
 <a href="http://www.linkedin.com/in/prayag-thakur" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  
 <a href="mailto:pat.982003@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;       
@@ -144,10 +144,12 @@ Snake wala input KARUNGA BADME
 
 <!-- Added Later -->
 <!-- Connect with Me Section -->
-<h2 align="center">Connect with Me</h2>
+
+
+<p align="center"><em><b>I love connecting with different people</b> so if you want to say <b>Hi, I'll be happy to meet you more!</b></em> <img src="https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif" width="40"></p>
 
 <a href="https://www.linkedin.com/in/prayag-thakur/" target="_blank" style="margin-right: 10px;">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="40" width="40" />
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg " alt="LinkedIn Profile" height="40" width="40" />
 </a>
 
 <a href="https://github.com/PrAyAg9" target="_blank" style="margin-right: 10px;">
