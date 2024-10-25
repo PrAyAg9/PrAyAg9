@@ -41,9 +41,9 @@
         <br>
         <span style="font-size: 12px; color: #777777;">
 	  Out of 17,000+ participants<br>
-          PRs Merged: 40<br>
-          Total Badges: 5<br>
-          Total Score: 635<br>
+          PRs Merged: 50<br>
+          Total Badges: 7<br>
+          Total Score: 1325<br>
         </span>
       </td>
       <td style="padding: 15px;" valign="top" width="50%">
@@ -64,6 +64,11 @@
               <br>
               <strong>Trailblazer Badge</strong>
             </td>
+	    <td style="padding: 10px;" width="100">
+              <img src="https://github.com/PrAyAg9/PrAyAg9/blob/main/PostmanAPI.png" alt="Postman Badge" width="80" />
+              <br>
+              <strong>Postman Badge</strong>
+            </td>
           </tr>
           <tr align="center">
               <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
@@ -74,7 +79,12 @@
             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
               <img src="https://github.com/PrAyAg9/PrAyAg9/blob/main/Summit%20Seeker%20Badge.png" alt="Summit Seeker Badge" width="80" />
               <br>
-              <strong>Summit Seeker Badge</strong>
+              <strong>SummitSeeker Badge</strong>
+            </td>
+	    <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
+              <img src="https://github.com/PrAyAg9/PrAyAg9/blob/main/Innovator_Badge.png" alt="Innovator Badge" width="80" />
+              <br>
+              <strong>Innovator Badge</strong>
             </td>
           </tr>
         </table>
