@@ -37,13 +37,13 @@
           <strong>GirlScript Summer of Code Extd 2024</strong>
         </a>
         <br>
-        <span style="font-size: 14px; color: #555555;">🏅 Ranked 31th [Current] </span>
+        <span style="font-size: 14px; color: #555555;">🏅 Ranked 50th [Current] </span>
         <br>
         <span style="font-size: 12px; color: #777777;">
 	  Out of 17,000+ participants<br>
-          PRs Merged: 50<br>
-          Total Badges: 7<br>
-          Total Score: 1325<br>
+          PRs Merged: 56<br>
+          Total Badges: 10<br>
+          Total Score: 1860<br>
         </span>
       </td>
       <td style="padding: 15px;" valign="top" width="50%">
@@ -92,9 +92,9 @@
               <strong>Innovator Badge</strong>
             </td>
 	    <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
-              <img src="https://github.com/PrAyAg9/PrAyAg9/blob/main/Hack-Web3Conf%20%2024png.png" alt="Innovator Badge" width="80" />
+              <img src="https://github.com/PrAyAg9/PrAyAg9/blob/main/HackWeb-Badge.png" alt="Innovator Badge" width="80" />
               <br>
-              <strong>Hack-Web3 Badge</strong>
+              <strong>Web3 Badge</strong>
             </td>
 	    <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
               <img src="https://github.com/PrAyAg9/PrAyAg9/blob/main/Pull%20Expert.png" alt="Innovator Badge" width="80" />
