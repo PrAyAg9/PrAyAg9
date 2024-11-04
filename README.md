@@ -69,6 +69,11 @@
               <br>
               <strong>Postman Badge</strong>
             </td>
+	    <td style="padding: 10px;" width="100">
+              <img src="https://github.com/PrAyAg9/PrAyAg9/blob/main/Code%20Luminary.png" alt="Postman Badge" width="80" />
+              <br>
+              <strong>Code-Luminary </strong>
+            </td>
           </tr>
           <tr align="center">
               <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
@@ -85,6 +90,16 @@
               <img src="https://github.com/PrAyAg9/PrAyAg9/blob/main/Innovator_Badge.png" alt="Innovator Badge" width="80" />
               <br>
               <strong>Innovator Badge</strong>
+            </td>
+	    <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
+              <img src="https://github.com/PrAyAg9/PrAyAg9/blob/main/Hack-Web3Conf%20%2024png.png" alt="Innovator Badge" width="80" />
+              <br>
+              <strong>Hack-Web3 Badge</strong>
+            </td>
+	    <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
+              <img src="https://github.com/PrAyAg9/PrAyAg9/blob/main/Pull%20Expert.png" alt="Innovator Badge" width="80" />
+              <br>
+              <strong>Pull Expert </strong>
             </td>
           </tr>
         </table>
