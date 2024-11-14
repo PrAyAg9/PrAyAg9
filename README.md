@@ -37,7 +37,7 @@
           <strong>GirlScript Summer of Code Extd 2024</strong>
         </a>
         <br>
-        <span style="font-size: 14px; color: #555555;">🏅 Rank - 62 </span>
+        <span style="font-size: 14px; color: #555555;">🏅 Rank - 64 </span>
         <br>
         <span style="font-size: 12px; color: #777777;">
 	  Out of 17,000+ participants<br>
